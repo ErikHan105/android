@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">Davidhood</string>
+    <string name="french">Français</string>
+    <string name="deutsch">Deutsch</string>
+    <string name="welcome">Bienvenue !</string>
+    <string name="welcome_description1">Cliquez, Regardez et Gagnez!</string>
+    <string name="welcome_description2">Une façon simple de gagner de l’argent.</string>
+    <string name="login">Connexion</string>
+    <string name="signup">Créer un compte</string>
+    <string name="email">Email</string>
+    <string name="new_email">Nouveau email</string>
+    <string name="password">Mot de passe</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="forgot_password_description">Contactez-nous par email: info@davidhood.ch</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="update">Update</string>
+    <string name="show">Afficher</string>
+    <string name="hide">Cacher</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom de famille</string>
+    <string name="birth_date">Date de naissance</string>
+    <string name="address">Adresse</string>
+    <string name="city">Localité</string>
+    <string name="postal_code">Code postal</string>
+    <string name="iban">IBAN</string>
+    <string name="almost_done">Salut, c’est presque fini !</string>
+    <string name="almost_done_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</string>
+    <string name="i_agree">J’ai lu et j’accepte les conditions</string>
+    <string name="home">Accueil</string>
+    <string name="home_top">Accueil</string>
+    <string name="my_profile">Profil</string>
+    <string name="settings">Options</string>
+    <string name="profile_update_message">Pour changer de mot de passe ou d’email cliquer</string>
+    <string name="here">ici!</string>
+    <string name="general_condition">Condition générale</string>
+    <string name="about_us">Concept</string>
+    <string name="ask_questions">Poser une question</string>
+    <string name="publish_advertisement">Publier une publicité</string>
+    <string name="publish_advertisement_detail1">
+        <Data><![CDATA[
+        Envie de publier sur Davidhood ?<br>
+        Rien de plus simple !<br>
+        Envoyez un email à «info@davidhood.ch » avec comme sujet «Publicité ». Dans l’email, veuillez indiquer les coordonnées de votre entreprise, votre nom, prénom, numéro de téléphone ainsi que l’option désirée. Notre service de vente vous contactera ensuite pour finaliser votre publication promotionnelle.<br><br>
+        <b>Davidhood vous propose différents tarifs en fonction de vos besoins.</b><br>
+        ]]> </Data>
+    </string>
+    <string name="publish_advertisement_detail2">
+        <Data><![CDATA[
+        • Qu’est-ce que la <b>question de contrôle :</b><br>
+        Il s’agit d’une question qui est posée à la fin de chaque vidéo. En y répondant correctement, l’utilisateur confirmera qu’il a bien visionné la vidéo dans sa totalité et qu’il en a compris le contenu.<br>
+        En cas de fausse réponse l’utilisateur devra regarder le clip une deuxième fois afin de pouvoir répondre à une nouvelle question (les vues supplémentaires dues à de fausses réponses ne seront pas comptabilisées).<br><br>
+        <b>L’option 1</b>: publication de votre clip vidéo qui ne peut être lu qu’une seule fois par utilisateur (jusqu’à épuisement du nombre total de vues). Idéale pour avertir les utilisateurs d’une offre temporaire (p. ex. action sur un produit)<br>
+        Une question de contrôle est posée à la fin de la vidéo afin d’être sûr que l’utilisateur a compris et enregistré le message que vous voulez faire passer.<br><br>
+        <b>L’option 2</b>: publication de votre clip vidéo qui ne peut être visionné qu’une seule fois par tranche de 24 heures et par utilisateur (jusqu’à épuisement du nombre total de vues). Idéale pour avertir les utilisateurs de l’organisation d’évènements ou pour la présentation de nouveauxproduits.<br>
+        Une question de contrôle est posée à la fin de la vidéo afin d’être sûr que l’utilisateur a compris et enregistré le message que vous voulez faire passer.<br><br>
+        <b>L’option 3</b>: publication de votre clip vidéoqui pourra être visionné plusieurs fois par chaque utilisateur (au minimum 5 vues par personne, jusqu’à épuisement du nombre total de vues). Idéale pour familiariser l’utilisateur avec vos produits et vos marques.<br>
+        Une question de contrôle est posée à la fin de la vidéo, afin d’être sûr que l’utilisateur a compris et enregistré le message que vous voulez faire passer.<br>
+        ]]> </Data>
+    </string>
+    <string name="logout">Déconnection</string>
+    <string name="general_condition_detail">
+        <Data><![CDATA[
+            <h4>Conditions Générales</h4>
+            <h5>Introduction</h5>
+            <b>Conditions Générales (CG)</b> : les conditions générales, peuvent être sujet à des mises à jour de temps à autre.<br>
+            <h5>Utilisation de l’application</h5>
+            <b>Exactitude des données transmises</b> : Les utilisateurs de l’application doivent impérativement transmettre des informations exactes afin que Davidhood puisse atteindre son but sans encombre (p.ex IBAN associer aux bonnes coordonnées afin de verser les gains).
+            Davidhood garde le droit en cas de fausses informations de ne pas verser les gains.<br><br>
+            <b>Garantie des gains</b> : Il est possible de retirer son gain jusqu’à une année après l’avoir reçu sur son compte Davidhood.
+            Le montant minimal pour demander le versement de ses gains sur son compte bancaire est de 20 CHF (vingt francs suisse).<br>
+            <h5>Politique de protection de la vie privée et des données personnelles</h5>
+            Dans le cadre de la saisie et du traitement des données personnelles, Davidhood est soumise à la législation suisse en matière de protection des données.<br>
+            <h5>Exactitude, exhaustivité et degré d’actualité des informations</h5>
+            Toutes les informations et la documentation contenues sur l’application (ainsi que sur les pages que nous animons sur les réseaux sociaux) sont uniquement présentées à titre indicatif et dans le but de promouvoir nos produits et services. Les informations et la documentation présentées ne constituent en aucun cas une offre de produits et/ou de services de notre part, ni de la part de nos partenaires ou de tiers, et ne peuvent être considérées comme conseils ou instructions sur l’utilisation de nos produits et services.<br><br>
+            Nous mettons en œuvre tous les efforts raisonnables pour nous assurer que les informations figurant sur l’application (ainsi que sur les pages que nous animons sur les réseaux sociaux) sont exactes et complètes. Nous rejetons cependant toute responsabilité si tel ne devait pas être le cas. Si vous vous fiez à ces informations, ce sera à vos risques et périls. Vous convenez qu’il est de votre responsabilité de vous tenir au courant de toute modification apportée au contenu du l’application. Toute responsabilité de Davidhood est exclue à cet égard.<br><br>
+            Il appartient au Client de s’informer auprès des autorités compétentes quant aux éventuelles restrictions s’agissant de l’utilisation des produits qu’il souhaite commander. <br>
+            <h5>Droits de propriété intellectuelle</h5>
+            Les droits d’auteur et autres droits de propriété intellectuelle concernant le Contenu sont la propriété de Davidhood ou sont utilisés avec la permission du propriétaire concerné.<br><br>
+            Vous êtes autorisés à naviguer sur l’application et à en reproduire des extraits, par impression ou téléchargement vers un disque dur, à votre destination ou à celle de vos proches uniquement. Ceci est possible dans la mesure où vous respectez les indications de droits d’auteur et autres indications de propriété intellectuelle. Pour le surplus, aucun élément du l’application n’a été conçu dans le but de vous accorder une licence ou un droit d’utilisation, quel qu’il soit, sur le Contenu. Tout autre usage de votre part du Contenu est ainsi strictement interdit. En particulier, aucune reproduction d’une quelconque partie de l’application ne peut être vendue ou distribuée à des fins commerciales, ni être modifiée ou incorporée à toute autre œuvre, publication ou tout autre site Internet. <br>
+            <h5>Liens vers d’autres sites</h5>
+            Des liens sur l’application peuvent vous diriger hors de nos réseaux et de nos systèmes, notamment vers les sites Internet de nos partenaires. Davidhoodn’accepte aucune responsabilité concernant le contenu, l’exactitude ou le fonctionnement de ces sites tiers. Ces liens sont proposés de bonne foi et Davidhoodne peut être tenue pour responsable du contenu des sites tiers vers lesquels un lien est proposé. L’inclusion d’un lien vers d’autres sites Internet n’implique pas l’approbation de Davidhood. Nous vous recommandons de lire attentivement les mentions légales et l’avis concernant la protection des données personnelles de tous les autres sites que vous visitez. <br>
+            <h5>Traitement des communications à Davidhood - Sécurité des e-mails</h5>
+            Les communications que vous adressez à Davidhood par Internet ne seront pas considérées comme confidentielles. <br><br>
+            Lorsque vous communiquez avec nous par e-mails, vous devez tenir compte du fait que la protection des messages e-mail transmis par Internet n’est pas garantie. Par conséquent, en envoyant par e-mails des messages importants, non encodés, vous acceptez les risques de cette incertitude.<br>
+            <h5>Activités interdites</h5>
+            Davidhood se réserve le droit d’interdire (p.ex. en supprimant le contenu concerné ou en limitant/interdisant l’accès à tout ou partie de l’application), sans préavis, tout acte que nous pourrions juger inapproprié et/ou que nous pourrions estimer être contraire à la loi ou à la bienséance, y compris (entre autres) la publication sur l’application d’un contenu qui, de notre seul avis, est susceptible d’être préjudiciable aux systèmes de sécurité de Davidhood(ou de parties tierces) ou de contenir des propos insultants, agressifs, diffamatoires, racistes, obscènes, menaçants, pornographiques, illégaux/immoraux ou autrement dérangeants.<br><br>
+            Sauf accord écrit préalable deDavidhood, l’utilisateur dont l’accès à l’application a été supprimé n’est plus autorisé à s’inscrire sur l’application, que cela soit sous son nom ou sous un autre nom. <br>
+            <h5>Absence de garanties</h5>
+            L’utilisation de l’application se fait à vos propres risques. <br><br>
+            L’application vous est proposé ‘en l’état’ et ‘tel qu’il est disponible’. Par conséquent, Davidhood n’offre aucune garantie. Nous ne garantissons en particulier pas que (i) l’application et les produits/services offerts sur celui-ci sont conformes à vos exigences; (ii) l’application et son contenu sont exhaustifs, exacts, précis, fiables, actualisés et ne transgressent pas les droits d’un tiers; (iii) l’accès à l’application ne connaîtra pas d’interruption ou d’erreur, ou est garanti sans virus; (iv) les défauts seront corrigés; (v) l’application est sécurisé; ou (vi) tout conseil ou opinion provenant de Davidhood par l’intermédiaire de cette application est exact et fiable.<br><br>
+            Toute information présente sur l’application est sujette à modification ou suppression sans préavis. <br>
+            <h5>Exclusion de responsabilité</h5>
+            <b>Dans la mesure permise par la loi, toute responsabilité de Davidhood, ses organes, ses auxiliaires et ses représentants, pouvant résulter de votre accès au - ou votre utilisation de l’application, est exclue.</b><br><br>
+            <b>En tant que condition préalable à votre utilisation de l’application, vous vous engagez à indemniser Davidhood, ainsi que ses organes, ses auxiliaires et ses représentants de tout dommage (y compris les frais de justice et d’avocat(s)) qui pourrait résulter de votre accès au - ou votre utilisation de l’application.</b><br>
+            <h5>Nullité partielle</h5>
+            Toute disposition des Conditions d’Utilisation qui serait, en tout ou en partie, en contradiction avec le droit impératif suisse sera dissociable et toute nullité, totale ou partielle, d’une telle clause n’affectera pas la validité du reste de la clause en question, ni des autres clauses des Conditions d’Utilisation. Si une disposition des Conditions d’Utilisation s’avérait sans effet en tout ou en partie, elle devra être remplacée par une disposition produisant des effets économiques et juridiques aussi proches que possible de ceux de la disposition invalidée. <br>
+            <h5>Divers</h5>
+            Les Conditions d’Utilisation constituent l’entier de l’accord entre Davidhood et vous pour ce qui concerne l’accès et l’utilisation de l’application et du Contenu. <br><br>
+            Le fait pour Davidhood de tolérer des manquements par vous-même à l’une de vos obligations prévues par les Conditions d’Utilisation, ou de ne pas exiger l’application d’un droit qui est reconnu à Davidhood par les Conditions d’Utilisation ou de par la loi, ne peut être interprété comme une renonciation de sa part à s’en prévaloir. <br>
+            <h5>Juridiction et droit applicable</h5>
+            Les Conditions d’Utilisation sont soumises au droit suisse, à l’exclusion de ses règles de droit international privé. <br><br>
+            Le for exclusif est à Neuchâtel, sous réserve d’un recours au Tribunal fédéral. <br>
+            <h5>Langues</h5>
+            Les Conditions d’Utilisation sont rédigées en français et en allemand. En cas de divergences, la version française fait foi. <br>
+            <h4>Politique de confidentialité</h4>
+            Nous sommes pleinement conscients de la confiance que vous nous accordez, ainsi que de notre responsabilité s’agissant de la protection des données personnelles que vous nous transmettez. C’est pourquoi nous avons rédigé cette Politique. Elle vise à vous indiquer quels types d’informations nous collectons lorsque vous utilisez notre application, dans quels buts et comment nous avons décidé d’exploiter ces données pour mieux répondre à vos attentes. <br><br>
+            Cette Politique fait partie intégrante des <a href="https://www.qoqa.ch/fr/legal_notices#cu">Conditions d’Utilisation</a> qui s’appliquent pour le surplus. En cas de divergences entre les dispositions de la Politique et celles des <a href="https://www.qoqa.ch/fr/legal_notices#cu">Conditions d’Utilisation</a>, les premières prévaudront. <br><br>
+            Tout terme débutant par une majuscule a le sens qui lui est attribué dans les <a href="https://www.qoqa.ch/fr/legal_notices#cu">Conditions d’Utilisation</a>. <br><br>
+            En nous fournissant des données personnelles, vous consentez à ce que nous les collections, sauvegardions et exploitions selon la législation en vigueur et les termes et conditions de cette Politique. Si vous êtes en désaccord avec ceux-ci, nous vous invitons à ne nous fournir aucune donnée personnelle. Si vous refusez ou retirez votre consentement ou si vous choisissez de ne pas nous fournir les données personnelles requises, il se peut que nous soyons dans l’impossibilité de vous fournir tout ou partie de nos prestations.<br><br>
+            Si vous avez des questions ou des remarques concernant cette Politique ou des commentaires visant à en améliorer la qualité, veuillez nous écrire sur la page « poser une question ».<br>
+            <h5>Quelles données collectons-nous ?</h5>
+            Nous collectons des données personnelles de deux manières:<br><br>
+            - <b>Informations que vous décidez librement de nous fournir</b> : pour accéder à nos prestations, vous devez nous fournir un certain nombre d’informations personnelles, telles que votre prénom, nom, adresse e-mail, adresse postale, numéro de téléphone, etc.<br><br>
+            - <b>Informations que nous collectons automatiquement lorsque vous utilisez notre application</b> :au-delà des données que vous décidez librement de nous fournir pour accéder à nos prestations, nous collectons et exploitons diverses informations concernant votre comportement sur notre application.<br><br>
+            Par ailleurs, lorsque vous utilisez, depuis notre application, des services offerts par des sociétés tierces (Google Maps™, YouTube™, etc.), nous attirons votre attention sur le fait que lesdites sociétés peuvent également, à travers ces services, collecter des données personnelles vous concernant (votre localisation, vos préférences d’utilisation, etc.). Aussi, avant d’utiliser ces services, nous vous recommandons de lire attentivement les politiques de protection de la vie privée de ces sociétés tierces <br>
+            <h5>Comment utilisons-nous les données collectées ?</h5>
+            Nous utilisons les informations que vous décidez librement de nous fournir précisément pour atteindre les buts pour lesquels vous nous les avez transmises, tels que le versement de votre gain, la section question. Nous nous réservons en outre le droit d’utiliser tout ou partie de ces informations à d’autres fins, telles que communiquer avec vous, procéder à des sondages ou encore vous recommander ceux de nos services (ou des services de nos partenaires) qui pourraient vous intéresser. Bien entendu, vous pouvez à tout moment vous opposer à l’utilisation de vos données personnelles à de telles autres fins (opting-out). Pour cela, il suffit de suivre les instructions mentionnées dans nos communications, de modifier vos préférences d’utilisation de notre application ou, à défaut, de contacter notre Service Clients. <br><r>
+            Concernant les informations relatives à votre comportement sur l’application que nous collectons automatiquement, nous les utilisons dans le but d’améliorer et personnaliser nos prestations, ceci pour mieux répondre à vos attentes <br>
+            <h5>À qui les données sont-elles communiquées ?</h5>
+            Vos données personnelles sont uniquement transmises ou communiquées à des tiers (i) si cela est nécessaire à l’atteinte des buts pour lesquels vous nous les avez librement transmises. (ii) si vous y avez préalablement consenti, (iii) lorsque la loi ou une injonction judiciaire l’exige ou (iv) en cas de vente de notre activité. <br><br>
+            De votre côté, il vous est possible de partager certaines informations sur les réseaux sociaux, notamment en faisant usage des boutons Facebook™ ou Twitter™ disponibles sur notre application. Rappelez-vous que lorsque vous partagez publiquement des informations, celles-ci peuvent être indexées par des moteurs de recherches. <br>
+            <h5>Notre utilisation des adresses IP</h5>
+            Tout ordinateur ou appareil connecté à Internet se voit attribuer une adresse IP (Internet Protocol). Les adresses IP sont généralement attribuées par blocs pour chaque pays. Il est ainsi possible de les utiliser pour identifier le pays, la région et la ville dans lesquels l’ordinateur se connecte à Internet. Les sites Internet devant nécessairement utiliser les adresses IP pour qu’Internet fonctionne, Davidhood peut avoir accès à - et garder l’historique de - votre (vos) adresse(s) IP <br>
+            <h5>Droit d’accès et de rectification</h5>
+            Conformément à la législation en matière de protection des données, vous avez le droit d’être renseigné gratuitement sur les données enregistrées à votre sujet et, lorsque celles-ci apparaissent comme inexactes ou incomplètes, le droit de les rectifier ou de les supprimer. Pour rectifier vos données, il vous suffit de vous connecter sur votre compte, d’aller sur votre profil et de faire les modifications nécessaires. Pour les supprimer, veuillez prendre contact à l’adresse mentionnée ci-dessous. Sauf si nous devons en conserver tout ou partie à des fins commerciales ou juridiques, nous supprimerons vos données personnelles. Il se peut toutefois que nous conservions certaines données de connexion, certaines informations démographiques et statistiques vous concernant ou que nous gardions une copie d’archivage anonymisée de vos informations. <br><br>
+            Nous nous réservons enfin le droit de rejeter les requêtes qui sont déraisonnablement répétitives, qui demandent des efforts techniques disproportionnés (p.ex. de développer un nouveau système ou de changer fondamentalement les pratiques existantes) ou qui sont simplement irréalisables. <br><br>
+            Le cas échéant, veuillez adresser toute demande par la page « poser une question ».<br>
+            <h5>Sécurité des données personnelles</h5>
+            Vos données personnelles sont protégées d’un traitement non autorisé par le biais de mesures d’ordre technique et organisationnel appropriées <br>
+            <h5>Utilisation abusive des prestations de services</h5>
+            En cas d’utilisation abusive de notre application, en particulier en cas de crainte d’actes punissables, les données personnelles peuvent être analysées en vue de clarifier la situation et, sur demande dûment justifiée, être transmises aux autorités officielles compétentes ou au tiers concerné par l’abus 
+        ]]> </Data>
+    </string>
+    <string name="about_us_detail">
+        <Data><![CDATA[
+        Davidhood est une application mobile créée en Suisse. Son principe est simple :vous cliquez sur une vidéo pour commencer la lecture de celle-ci, vous la regardez attentivement et une fois la vidéo lue vous répondez à la question et vous empochez votre gain.<br><br>
+        Ce concept est simple et basé sur l’économie de l’attention. Le but de Davidhood est de proposer une relation plus transparente et équitable entre annonceurs et consommateurs.<br><br>
+        L’application est en continuelle amélioration. Vos idées et avis pour améliorer la fonctionnalité de cette dernière retiendront toute l’attention de l’équipe de Davidhood.<br><br>
+        Si vous désirez nous poser une question ou nous transmettre un commentaire, vous pouvez nous contacter par email en vous reportant à la rubrique « Poser une question » ou en écrivant directement à l’adresse : info@davidhood.ch.<br><br>
+        Il en est de même pour tout changement relatif à votre adresse postale ou à votre IBAN.<br><br>
+        Notre équipe vous répondra dans les plus brefs délais.<br><br>
+        Davidhood vous souhaite une excellente expérience avec son application.<br><br>
+        ]]> </Data>
+    </string>
+    <string name="subject">Titre</string>
+    <string name="message">Message (Max: 1024 caractères)</string>
+    <string name="submit">Submit</string>
+    <string name="ask_transfer">demander le versement</string>
+    <string name="request_description">Le versement peut être demandé seulement dès 20 CHF</string>
+
+    <string name="finish_app_message">Voulez-vous fermer l’application?</string>
+    <string name="ok">D’accord</string>
+    <string name="cancel">Annuler</string>
+    <string name="fill_message">Merci de remplir tous les champs</string>
+    <string name="invalid_email_message">Adresse e-mail invalide</string>
+    <string name="not_match_password_message">Le mot de passe ne correspond pas</string>
+    <string name="server_connection_error_message">Erreur de connexion au serveur</string>
+    <string name="email_password_wrong_message">Email ou mot de passe n’est pas faux</string>
+    <string name="password_min_length">Le mot de passe ne peut pas être inférieur à 8 caractères</string>
+    <string name="email_already_exists_message">l’email existe déjà</string>
+    <string name="iban_already_exists_message">IBAN existe déjà</string>
+    <string name="agree_condition_message">Vous devriez être d’accord avec les conditions</string>
+    <string name="signup_success_message">Vous vous êtes inscrit avec succès</string>
+    <string name="invalid_user_message">Utilisateur invalide</string>
+    <string name="transfer_already_asked_message">Vous avez déjà demandé le transfert</string>
+    <string name="profile_update_success_message">Le profil a été mis à jour avec succès</string>
+    <string name="choose_option_message">Veuillez choisir l’option pour mettre à jour</string>
+    <string name="for_more_info">Pour plus d’informations, veuillez cliquer ici!</string>
+    <string name="back_home">Retour à la page d’accueil</string>
+    <string name="wrong_answer_message">Votre réponse est fausse, veuillez revoir la vidéo!</string>
+    <string name="right_answer_message">Votre réponse est juste. Vous avez gagné!</string>
+    <string name="once_video_message">Vous pouvez regarder cette vidéo à nouveau après 24 heures.</string>
+    <string name="email_error_message">Impossible d’envoyer votre question avec succès!</string>
+    <string name="email_success_message">Votre message a été envoyé avec succès, Nous tacherons d’y répondre dans les plus brefs délais!</string>
+    <string name="invalid_url_message">URL invalide</string>
+</resources>

@@ -1,0 +1,50 @@
+
+Admin
+1.Anyway Admin should have all the rights Operators have and have detailed statistics on total users, total operators,
+ total projects, total projects per Operator, total projects per category, total featured projects and
+ also total featured projects per Operator
+2.Also Admin can set project as featured project
+3.Admin can block a member, delete user account
+
+Operator
+1. Publish new project (name, code, cost, description, ) like in Admin account;
+2. Request from Admin to set a project like featured project;//no
+3. Receive Messages and reply. Meaning Messages related to projects publish by that Operator
+4. See statistics related to its projects
+5. (If possible) Create sub-accounts for its agents managing its projects as Customer care or project publishers
+
+[5:23:14 PM] EDIATTAH: If they make featured projects directly, we could not charge them for it. The App is free. But we want to monetize with featured projects.
+[5:23:23 PM] EDIATTAH: But no worry.
+[5:23:32 PM] EDIATTAH: Let Operator create featured projects.
+[5:23:56 PM] EDIATTAH: But one thing important, please to set featured project duration.
+[5:24:26 PM] EDIATTAH: I mean a project can be activated as featured project for a limited time
+[5:24:39 PM] EDIATTAH: i.e: 1week, 1month, etc.
+[5:25:23 PM] EDIATTAH: So when setting a project as featured project, there must be possibility to select: From dd/mm/yy to dd/mm/yy
+[5:26:17 PM] EDIATTAH: When the time expires, the project is removed from featured project database and published on general projects list
+
+12.12---------------
+As for projects "Category" why not make a list to select from?
+I mean when publishing anew project
+Missing, possibility to upload Operator Image/Logo in the Operator Profile
+Country name and country code
+
+Maybe we will create in sending message form, message optional subjects like: Subscription issue, unsubscription issue, Billing issue, Suggestion, Congratulation, other complaint
+this way you set programmatically, message priority according to subjects of the message
+everything related to issues are high priority
+suggestions are medium
+and congratulations or tips are low priority
+So subjects are:
+1.Subscription issue
+2. Unsubcription issue
+3. Billing issue
+4. Other issue
+5. Suggestion
+6. Congratulations
+7. Tips
+8. Question
+
+I think, of Something like this when sending message:
+1. Select the project as subject
+2. Select your concern (i.e: the 8 points)
+3. Add your comment (limit to 320 characters)
+4. Send
